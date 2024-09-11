@@ -1,0 +1,76 @@
+2024-09-11 14:00:20,175 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:00:20,176 - Synchronization completed between ./source and ./replica
+2024-09-11 14:22:45,219 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:22:45,221 - File copied: ./source\teste.txt to ./replica\.\teste.txt
+2024-09-11 14:22:45,221 - Replicating file: ./source\teste.txt to ./replica\.\teste.txt
+2024-09-11 14:22:45,223 - File copied: ./source\teste2.txt to ./replica\.\teste2.txt
+2024-09-11 14:22:45,223 - Replicating file: ./source\teste2.txt to ./replica\.\teste2.txt
+2024-09-11 14:22:45,224 - File removed: ./replica\1.txt
+2024-09-11 14:22:45,224 - Removing file: ./replica\1.txt from replica (does not exist in source)
+2024-09-11 14:22:45,225 - Synchronization completed between ./source and ./replica
+2024-09-11 14:22:55,226 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:22:55,227 - Synchronization completed between ./source and ./replica
+2024-09-11 14:23:05,228 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:23:05,229 - Synchronization completed between ./source and ./replica
+2024-09-11 14:23:15,231 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:23:15,232 - Synchronization completed between ./source and ./replica
+2024-09-11 14:23:25,233 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:23:25,234 - Synchronization completed between ./source and ./replica
+2024-09-11 14:23:35,236 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:23:35,237 - Synchronization completed between ./source and ./replica
+2024-09-11 14:23:45,238 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:23:45,239 - Synchronization completed between ./source and ./replica
+2024-09-11 14:23:55,241 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:23:55,242 - Synchronization completed between ./source and ./replica
+2024-09-11 14:24:05,243 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:24:05,244 - Synchronization completed between ./source and ./replica
+2024-09-11 14:24:15,245 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:24:15,246 - Synchronization completed between ./source and ./replica
+2024-09-11 14:24:25,247 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:24:25,248 - Synchronization completed between ./source and ./replica
+2024-09-11 14:24:35,250 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:24:35,251 - Synchronization completed between ./source and ./replica
+2024-09-11 14:24:45,251 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:24:45,252 - Synchronization completed between ./source and ./replica
+2024-09-11 14:24:55,253 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:24:55,254 - Synchronization completed between ./source and ./replica
+2024-09-11 14:25:05,255 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:25:05,256 - Synchronization completed between ./source and ./replica
+2024-09-11 14:25:15,258 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:25:15,259 - Synchronization completed between ./source and ./replica
+2024-09-11 14:25:25,261 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:25:25,262 - Synchronization completed between ./source and ./replica
+2024-09-11 14:25:35,263 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:25:35,264 - Synchronization completed between ./source and ./replica
+2024-09-11 14:25:45,264 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:25:45,265 - Synchronization completed between ./source and ./replica
+2024-09-11 14:25:55,267 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:25:55,268 - Synchronization completed between ./source and ./replica
+2024-09-11 14:26:05,269 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:26:05,270 - Synchronization completed between ./source and ./replica
+2024-09-11 14:26:15,271 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:26:15,272 - Synchronization completed between ./source and ./replica
+2024-09-11 14:26:25,274 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:26:25,275 - Synchronization completed between ./source and ./replica
+2024-09-11 14:26:35,276 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:26:35,277 - Synchronization completed between ./source and ./replica
+2024-09-11 14:26:45,278 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:26:45,279 - Synchronization completed between ./source and ./replica
+2024-09-11 14:26:55,280 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:26:55,281 - Synchronization completed between ./source and ./replica
+2024-09-11 14:27:05,282 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:27:05,283 - Synchronization completed between ./source and ./replica
+2024-09-11 14:27:15,285 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:27:15,286 - Synchronization completed between ./source and ./replica
+2024-09-11 14:27:25,287 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:27:25,288 - Synchronization completed between ./source and ./replica
+2024-09-11 14:27:35,290 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:27:35,291 - Synchronization completed between ./source and ./replica
+2024-09-11 14:27:45,292 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:27:45,293 - Synchronization completed between ./source and ./replica
+2024-09-11 14:27:55,294 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:27:55,295 - Synchronization completed between ./source and ./replica
+2024-09-11 14:28:05,296 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:28:05,297 - Synchronization completed between ./source and ./replica
+2024-09-11 14:28:15,298 - Starting synchronization from source: ./source to replica: ./replica
+2024-09-11 14:28:15,299 - Synchronization completed between ./source and ./replica
