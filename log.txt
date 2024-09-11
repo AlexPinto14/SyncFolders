@@ -1,8 +1,0 @@
-2024-09-11 14:47:23,744 - Starting synchronization from source: ./source to replica: ./replica
-2024-09-11 14:47:23,745 - File removed: ./replica\teste.txt
-2024-09-11 14:47:23,745 - Removing file: ./replica\teste.txt from replica (does not exist in source)
-2024-09-11 14:47:23,746 - File removed: ./replica\teste2.txt
-2024-09-11 14:47:23,746 - Removing file: ./replica\teste2.txt from replica (does not exist in source)
-2024-09-11 14:47:23,747 - Synchronization completed between ./source and ./replica
-2024-09-11 14:47:33,748 - Starting synchronization from source: ./source to replica: ./replica
-2024-09-11 14:47:33,748 - Synchronization completed between ./source and ./replica
