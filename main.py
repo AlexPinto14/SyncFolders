@@ -59,6 +59,19 @@ def sync_folders(source_folder, replica_folder):
                     os.remove(replica_file)
                     logging.info(f"File removed: {replica_file}")
                     logging.info(f"Removing file: {replica_file} from replica (does not exist in source)")
+            
+                # Remove directories that no longer exist in the source (if empty)
+            for dir_name in dirs:
+                replica_dir = os.path.join(root, dir_name)
+                source_dir_path = os.path.join(source_dir, dir_name)
+    
+                # If the directory no longer exists in the source, and is empty, remove it
+                if not os.path.exists(source_dir_path):
+                    try:
+                        os.rmdir(replica_dir)
+                        logging.info(f"Directory removed: {replica_dir}")
+                    except OSError:
+                        logging.warning(f"Could not remove directory (not empty): {replica_dir}")
     
     # Call the synchronization and removal functions
     logging.info(f"Starting synchronization from source: {source_folder} to replica: {replica_folder}")
